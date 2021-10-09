@@ -22,4 +22,6 @@ When we run the analysis on all the stocks for the year 2018, we see a lot more 
 
 We can also see in the image below what the execution time was to run the refactored script for analysis on the year 2018.
 
-![This is an image](
+![This is an image](https://github.com/RyleeJensen/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+The execution times on both years are almost exactly the same, however the analysis on the year 2017 was a tiny bit faster. Both of the execution times of the refactored script are significantly faster than the orignal script. Looking at the original script, it takes 0.71875 seconds to run for the year 2017 and 0.7226562 seconds to run for the year 2018. 
