@@ -5,6 +5,7 @@ Our client, Steve, wanted to easily find the total daily volume and the yearly r
 ### Results
 #### 2017 Results
 After writing all the code and running the analysis on all the stocks for the years 2017 and 2018, we can conclude a few things. First, it is apparent that the yearly returns for almost all the stocks (except TERP) in 2017 were positive. In the photo below, we can see that the rows colored green all had a positve yearly return, and the one stock in red had a negative yearly return.
+
 ![This is an image](https://github.com/RyleeJensen/stock-analysis/blob/main/Resources/All_Stocks_2017.png)
 
 In the next image, we can see an example of the code written in order to format the cells to turn green if the return is positive or turn red if the return is negative.
@@ -25,3 +26,6 @@ We can also see in the image below what the execution time was to run the refact
 ![This is an image](https://github.com/RyleeJensen/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 The execution times on both years are almost exactly the same, however the analysis on the year 2017 was a tiny bit faster. Both of the execution times of the refactored script are significantly faster than the orignal script. Looking at the original script, it takes 0.71875 seconds to run for the year 2017 and 0.7226562 seconds to run for the year 2018. 
+
+### Summary
+
