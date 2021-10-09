@@ -13,5 +13,9 @@ In the next image, we can see an example of the code written in order to format 
 
 Finally, the following image tell us the execution time it took to run the refactored script for analysis on the year 2017.
 
-![This is an image](
+![This is an image](https://github.com/RyleeJensen/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
+#### 2018 Results
+When we run the analysis on all the stocks for the year 2018, we see a lot more red cells than we did in the year 2017. This tells us that all of the stocks, except ENPH and RUN, did quite poorly. It would probably be a good idea to stay away from investing in any of the stocks that pop up red. We can see an image below of what the analysis looks like.
+
+![This is an image](
