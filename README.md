@@ -28,4 +28,4 @@ We can also see in the image below what the execution time was to run the refact
 The execution times on both years are almost exactly the same, however the analysis on the year 2017 was a tiny bit faster. Both of the execution times of the refactored script are significantly faster than the orignal script. Looking at the original script, it takes 0.71875 seconds to run for the year 2017 and 0.7226562 seconds to run for the year 2018. 
 
 ### Summary
-
+Looking at the difference between the original and refactored code, the biggest advantage with the refactored is that the execution time is significantly faster than the original script. This is because the new code uses less memory and becomes more efficient. Through refactoring the code, we have made it easier to understand what each line is executing. The advantage of refactoring your code, is that the original code is usually going to be a little sloppy. It is essentially a rough draft. Once we have all the components we need to have an effective code, then we can go back through to clean it up and make it simpler.
